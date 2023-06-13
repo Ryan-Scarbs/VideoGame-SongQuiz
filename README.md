@@ -17,8 +17,8 @@ Outputs: The most prominent output will of course be the speaker. The speaker wi
 
 ## EasyMode
 1. Mario Theme
-2. Minecraft Theme
-3. Megalovania
+2. Megalovania
+3. Minecraft Theme
 
 ## HardMode
 1. Halo - Never Forget
